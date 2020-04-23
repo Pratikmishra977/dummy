@@ -1,2 +1,1 @@
-This will contain dummy codes for various utilities.
-All the informations regarding the code will be displayed here
+I am editing the README file. Adding some more details about the project description.
