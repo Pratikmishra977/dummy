@@ -11,6 +11,9 @@ def diff(num1 - num2):
 def product(num1 , num 2):
 	prod = num1*num2
 	print("The product is:", prod)
+def division(num1 , num2):
+	quatiant = num1/num2
+	print("The quatient is:",quatiant)
 def main():
 	sum(5,4)
 	diff(56, 65)
