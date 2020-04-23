@@ -8,7 +8,9 @@ def diff(num1 - num2):
 	else:
 		diff = num2 - num1
 	print("The difference is:", diff)
-
+def division(num1 , num2):
+	quatiant = num1/num2
+	print("The quatient is:",quatiant)
 def main():
 	sum(5,4)
 	diff(56, 65)
